@@ -4,7 +4,6 @@ void other()
 {
     printf("What's Boris doing here?\n");
     fflush(stdout);
-	
     printf("Boris, what are you doing in the secret function?\n");
     fflush(stdout);
 }
