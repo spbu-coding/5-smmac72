@@ -8,7 +8,7 @@ void other()
 	
     printf("Boris, what are you doing in the secret function?\n");
     fflush(stdout);
-	exit(0)
+	exit(0);
 }
 
 void input()
