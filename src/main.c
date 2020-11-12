@@ -14,8 +14,6 @@ void input()
 
     printf("Enter the code for a case: ");
     fflush(stdout);
-	printf("%p\n", &other);
-    fflush(stdout);
     scanf("%s", buffer);
     printf("You entered: %s\nCase was stolen\n", buffer);
     fflush(stdout);
